@@ -40,3 +40,33 @@ Automate the checkout process on an e-commerce site:
 
 ```bash.
 pip install -r requirements.txt
+
+✅ Requirements
+
+selenium
+
+Install with:
+
+pip install -r requirements.txt
+
+📸 Output
+
+🛒 Items added to cart ✅
+
+🧾 Form filled with validation ✅
+
+🔄 Transitions verified ✅
+
+🎉 Success message confirmed: THANK YOU FOR YOUR ORDER ✅
+
+⚠️ Issues Encountered
+
+None on the demo site.
+
+Real-world sites may have captchas, unpredictable UI elements, or dynamic locators.
+
+🔗 Demo Site
+
+Used: https://www.saucedemo.com/
+
+
