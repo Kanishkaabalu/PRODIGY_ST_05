@@ -1,0 +1,42 @@
+# 🛒 PRODIGY_ST_05 – Automated UI Testing for E-Commerce Checkout Flow
+
+**Internship:** Prodigy Infotech – Software Testing Track  
+**Task 5:** Automate the e-commerce checkout flow using Selenium
+
+---
+
+## ✅ Objective
+
+Automate the checkout process on an e-commerce site:
+- Add items to cart
+- Fill out checkout forms
+- Verify page transitions and success message
+
+---
+
+## 💻 Tech Stack
+
+- Language: Python
+- Tool: Selenium WebDriver
+- Browser: Chrome
+- Demo Site: https://www.saucedemo.com/
+
+---
+
+## 🧪 Steps Automated
+
+1. Login to site
+2. Add items to cart
+3. Proceed to checkout
+4. Fill personal information
+5. Confirm order
+6. Validate success message: **"THANK YOU FOR YOUR ORDER"**
+
+---
+
+## 🔧 Run the Test
+
+### Installation
+
+```bash.
+pip install -r requirements.txt
